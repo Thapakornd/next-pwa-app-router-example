@@ -27,6 +27,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Google Lighthouse
 You can check your PWA with "Google Lighthouse". If everything alright, you would see this picture.
+![image](https://github.com/Thapakornd/next-pwa-app-router-example/assets/89478647/48fa4015-0de3-477d-a4ad-46e603aa4657)
 
 
 ## Learn More
