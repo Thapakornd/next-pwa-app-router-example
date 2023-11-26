@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Before Started
 
-First, change my icons to yours in public and manifest.
+First, add your icon in public and map to manifest.
 This is example repo for example PWA in next.js with "next-pwa" lib. 
 
 ```
@@ -24,6 +24,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
+## Google Lighthouse
+You can check your PWA with "Google Lighthouse". If everything alright, you would see this picture.
+
 
 ## Learn More
 
